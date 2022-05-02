@@ -1,6 +1,7 @@
 .profile {
   background-color: #fff;
   width: 260px;
+  margin: 70px auto;
   border-radius: 10px;
   box-shadow: 1rem 1rem 2rem rgb(65, 64, 64), -1rem -1rem 2rem rgb(82, 81, 81);
 }
