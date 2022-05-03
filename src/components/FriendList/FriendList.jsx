@@ -18,7 +18,7 @@ export const FriendList = ({ friends }) => {
 };
 
 FriendList.propTypes = {
-  cards: PropTypes.arrayOf(
+  friends: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.number.isRequired,
       isOnline: PropTypes.bool.isRequired,
